@@ -36,8 +36,6 @@ Contributions are always welcome! If you have suggestions for improvements or ne
 ##  Contact 📧
 If you have any questions or feedback, please feel free to open an issue on the GitHub repository.
 
----
-
 **Enjoy!** ⚡
 
  
