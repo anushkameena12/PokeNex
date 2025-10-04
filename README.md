@@ -21,6 +21,20 @@ A modern Pokédex web app built with **React** that lets you explore Pokémon wi
 
 ---
 
+## Live Demo 🌐
+https://pokenex.netlify.app/
+
+---
+
+## 🛠️ Tech Stack
+- **React** (Frontend framework)
+- **Vite** (Development + bundling)
+- **CSS / Tailwind** (Styling, dark mode look)
+- **PokéAPI** (Pokémon data + moves)
+- **Netlify** (Deployment & hosting)
+
+---
+
 ## Contributing 🤝 
 Contributions are always welcome! If you have suggestions for improvements or new features, please feel free to:
 
